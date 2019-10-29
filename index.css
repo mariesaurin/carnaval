@@ -1,0 +1,74 @@
+h1 {
+  color:red;
+  font-size: 4em;
+  width: 100%;
+  font-family: cursive;
+  text-align: center;
+  border: 3px red solid;
+  box-shadow: 9px 9px 0px red;
+  }
+h2{
+  font-size: 2em;
+  color: green;
+  text-align:left;
+  }
+strong{
+ font-size: 1em;
+  text-align: center;
+  font-family: cursive;
+  }
+p{
+  font-size: 1em;
+  font-family: cursive;
+  text-align: left;
+  }
+.description{
+  font-weight:bold;
+}
+
+h3{
+  font-size: 2em;
+  font-family: cursive;
+  color: blue;
+  text-align: center;
+  border: 3px blue solid;
+  border-radius: 100px;
+  box-shadow: 9px 9px;
+  }
+h4{
+  text-align:left;
+  }
+
+h5{
+  font-size: 2em;
+  font-family: cursive;
+  color: orange;
+  text-align: center;
+  border: 3px orange solid;
+  box-shadow: 9px 9px 0px orange;
+  }
+h6{
+  font-size: 1.5em;
+  font-family: cursive;
+  text-align: left;
+    }
+.boutton-masque{
+  background-color:#03dffc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
